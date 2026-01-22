@@ -1,0 +1,38 @@
+.button {
+  height: 55px;
+  border: 0;
+  border-radius: 4px;
+  background: #5e5d5d;
+  color: #ffffff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.1s ease all;
+}
+
+.button:active {
+  transform: translateY(1px);
+}
+
+.button:hover{
+  opacity: 0.8;
+}
+
+.wide {
+  grid-column: span 2;
+}
+
+.red {
+  background: #e24a3b;
+}
+
+.plus {
+  background: #f2a112;
+}
+
+.equal {
+  background: #18a64a;
+}
+
+.dark {
+  background: #4b4b4b;
+}

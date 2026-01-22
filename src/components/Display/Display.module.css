@@ -1,0 +1,16 @@
+.displayWrap {
+  background: #0f0f0f;
+  border-radius: 8px;
+  padding: 14px 12px;
+}
+
+.display {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: #ffffff;
+  font-size: 34px;
+  line-height: 1;
+  text-align: right;
+}
